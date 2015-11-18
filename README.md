@@ -1,3 +1,5 @@
 # tensorflow-projects
 
 Ahoj
+
+Čus
